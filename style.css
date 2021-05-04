@@ -1,0 +1,28 @@
+body{
+ background-color: antiquewhite;
+ align-items: center;
+}
+
+.login_div1{
+    margin-top: 20px;
+    margin-left : 200px;
+    margin-right: 10px;
+     border-color:skyblue;
+     border-radius: 15px;
+     border-style: inset;
+
+}
+
+.login_div2{
+    border-color :skyblue;
+    border-radius: 15px;
+    border-style : inset;
+    
+}
+
+#cupcake{
+    color:midnightblue;
+    text-shadow: navy;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+  
+}
